@@ -1,0 +1,13 @@
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\bin\Debug\AnguloDistanciaArticulaciones.exe.config
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\bin\Debug\AnguloDistanciaArticulaciones.exe
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\bin\Debug\AnguloDistanciaArticulaciones.pdb
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\obj\Debug\MainWindow.baml
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\obj\Debug\MainWindow.g.cs
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\obj\Debug\App.g.cs
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\obj\Debug\AnguloDistanciaArticulaciones_MarkupCompile.cache
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\obj\Debug\AnguloDistanciaArticulaciones.g.resources
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\obj\Debug\AnguloDistanciaArticulaciones.Properties.Resources.resources
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\obj\Debug\AnguloDistanciaArticulaciones.csproj.GenerateResource.Cache
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\obj\Debug\AnguloDistanciaArticulaciones.exe
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\obj\Debug\AnguloDistanciaArticulaciones.pdb
+c:\users\fabidiamanti\documents\visual studio 2013\Projects\AnguloDistanciaArticulaciones\AnguloDistanciaArticulaciones\obj\Debug\AnguloDistanciaArticulaciones.csprojResolveAssemblyReference.cache
